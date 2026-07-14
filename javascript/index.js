@@ -44,6 +44,7 @@ function updateCity(event) {
     "A"
   )}</small></div>
   </div>
+  <a herf="index.html">All Cities</a>
   `;
 }
 
